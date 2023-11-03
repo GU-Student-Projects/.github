@@ -22,8 +22,8 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/gu-student-projects/.github/profile">
+    <img src="images/gonzaga.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Gonzaga University Student Projects</h3>
