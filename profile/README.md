@@ -21,8 +21,8 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/GU-Student-Projects/.github/tree/master/profile">
-    <img src="https://github.com/GU-Student-Projects/.github/tree/master/profile/images/gonzaga.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/GU-Student-Projects"">
+    <img src="https://github.com/GU-Student-Projects/.github/blob/master/profile/images/gonzaga.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Gonzaga University Student Projects</h3>
