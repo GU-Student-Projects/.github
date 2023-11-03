@@ -17,12 +17,11 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-
 <!-- PROJECT LOGO -->
 
 <br />
 <div align="center">
-  <a href="https://github.com/gu-student-projects/.github/profile">
+  <a href="https://github.com/GU-Student-Projects/.github/tree/master/profile">
     <img src="images/gonzaga.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -129,7 +128,6 @@ For more information regarding academic honesty and the guidelines set forth by 
 
 Remember, learning is a journey, and I hope this repository can serve as a helpful guide in your educational endeavors. Let's all strive to achieve success with integrity and dedication!
 
-
 ## Contributing
 
 Contributions are highly valued in the open-source community, as they foster a collaborative environment for learning, inspiration, and creation. Any contributions you make are  **warmly welcomed** .
@@ -176,7 +174,6 @@ I would like to extend my heartfelt appreciation to the following individuals fo
 - **Kevin Rocca**
 
 Your commitment and expertise have played a crucial role in making this project even more impactful and beneficial to the community. Thank you for your valuable contributions!
-
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
