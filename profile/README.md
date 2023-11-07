@@ -139,9 +139,9 @@ We'd also appreciate if you could show your support by giving the project a star
 Here's a quick guide on how to contribute:
 
 1. **Fork the Project** : Begin by forking the project to your GitHub account.
-2. **Create your Feature Branch** : Set up a new branch for your proposed feature or enhancement (e.g., `git checkout -b feature/AmazingFeature`).
-3. **Commit your Changes** : Make your desired changes and commit them with a meaningful message (e.g., `git commit -m 'Add some AmazingFeature'`).
-4. **Push to the Branch** : Push your branch with the changes to your GitHub repository (e.g., `git push origin feature/AmazingFeature`).
+2. **Create your Feature Branch** : Set up a new branch for your user/assignment. (e.g., `git checkout -b feature/assignment`).
+3. **Commit your Changes** : Make your desired changes and commit them with a meaningful message (e.g., `git commit -m 'Added some class assignment'`).
+4. **Push to the Branch** : Push your branch with the changes to your GitHub repository (e.g., `git push origin feature/assignment`).
 5. **Open a Pull Request** : Finally, create a pull request to have your changes reviewed and merged into the main project.
 
 Your contributions will help make this project more valuable and assist others in their learning journey. Thank you for your dedication and support!
