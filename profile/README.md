@@ -30,7 +30,7 @@
 <p align="center">
     An awesome collection of student assignments and projects!
     <br />
-    <a href="https://github.com/GU-Student-Projects"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/orgs/GU-Student-Projects/repositories"><strong>Explore the docs »</strong></a>
     <br />
     <br />
   </p>
