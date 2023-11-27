@@ -21,7 +21,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/GU-Student-Projects"">
+  <a href="https://github.com/GU-Student-Projects">
     <img src="https://github.com/GU-Student-Projects/.github/blob/master/profile/images/gonzaga.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -93,7 +93,7 @@ If you want to add to this organization please reach out the sites administrator
 
 ### Prerequisites  and Usage
 
-For python projects it is recommended to install a virualization software.
+For python projects it is recommended to install a virtualization software.
 
 * Anaconda
   ```sh
@@ -102,18 +102,18 @@ For python projects it is recommended to install a virualization software.
 
 ### Installation
 
-_Below is an example of how you can install a repostory from this organization_
+_Below is an example of how you can install a repository from this organization_
 
 1. Clone the repo
    ```sh
    git clone https://github.com/gu-student-projects/Project-Name.git
    ```
-2. If working with Python run the virtual envrionment
+2. If working with Python run the virtual environment
    ```sh
    conda activate YOUR_ENVIRONMENT
    ```
-3. If C++ all projects envolve a MAKE file
-   ```js
+3. If C++ all projects involve a MAKE file
+   ```bash
    cd ./YOUR-REPOSITORY
    make
    ```
